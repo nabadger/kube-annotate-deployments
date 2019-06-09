@@ -1,0 +1,3 @@
+---
+grafana_token: "{GRAFANA_TOKEN}"
+grafana_url: "{GRAFANA_URL}"
